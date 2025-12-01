@@ -1,0 +1,1 @@
+Crea aquí Canvas, textos, barras, etc.

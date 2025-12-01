@@ -1,0 +1,4 @@
+repository "StarDefender2D/StarDefender2D@4674129011695@cloud"
+  path "/"
+    br "/main"
+    co "/main"
